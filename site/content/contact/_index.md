@@ -7,7 +7,7 @@ contact_entries:
       Derler Wohn-Service, Egghölzlistrasse 63, 3006 Bern  
 
   - heading: Arbeitszeiten
-    text: "Montag – Samstag: 6:00 – 18:00 Wir sind Sonntags geschlossen"
+    text: "Montag – Samstag: 7:00 – 18:00 Wir sind Sonntags geschlossen"
 ---
 
 
