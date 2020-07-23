@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 logo: img/derler02.svg
 contact_entries:
   - heading: Standort
