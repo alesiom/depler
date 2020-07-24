@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: img/derler02.svg
+logo: img/icon-wohn.svg
 contact_entries:
   - heading: Standort
     text: |+
