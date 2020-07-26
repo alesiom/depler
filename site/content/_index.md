@@ -6,7 +6,7 @@ blurb:
   heading: Haus-Wohn-Service
   text: " Mit Rat und Tat rund um Ihre Wohnung und Liegenschaft"
 intro:
-  heading: Kompetent, flink und persönlich - test
+  heading: Kompetent, flink und persönlich
   text: " "
 products:
   - image: img/illustrations-coffee.svg
