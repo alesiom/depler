@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Body, name: body, widget: markdown}
-          - {label: Image, name: image, widget: image}
+          - {label: Full_image, name: full_image, widget: image}
       - file: "site/content/kontakt/_index.md"
         label: "Kontakt"
         name: "contact"
