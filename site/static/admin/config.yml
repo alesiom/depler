@@ -12,11 +12,11 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home Page"
         name: "home"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Body, name: body, widget: markdown}
-          - {label: Full_image, name: full_image, widget: image}
+          - {label: Titel, name: title, widget: string}
+          # - {label: Untertitel, name: subtitle, widget: string}
+          - {label: Hintegrund Foto, name: image, widget: image}
+          - {label: Text, name: body, widget: markdown}
+          - {label: Foto, name: full_image, widget: image}
       - file: "site/content/kontakt/_index.md"
         label: "Kontakt"
         name: "contact"
