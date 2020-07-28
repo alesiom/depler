@@ -2,10 +2,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ .Content }}
+{{ partial "text-and-image" (dict "heading" " " "text" .Content "imgUrl" .Params.full_image "buttonText" "Mehr" "buttonLink" "/dienstleistungen") }}
 
-{{ partial "text-and-image" (dict "heading" " " "text" .Params.home.body "imgUrl" .Params.home.full_image "buttonText" "Mehr" "buttonLink" "/dienstleistungen") }}
-
-{{ partial "contact-form" . }}
+<div class="ph3 bg-off-white">
+	<div class="center mw6 pv3">
+    {{ partial "contact-form" . }}
+  </div>
+</div>
 
 {{ end }}
