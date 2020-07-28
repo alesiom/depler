@@ -15,9 +15,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Titel, name: title, widget: string}
           - {label: Hintegrund Foto, name: image, widget: image}
           - {label: Foto, name: full_image, widget: image}
-          - label: Test
+          - label: "Wo du Stark bist"
             name: bulletpoints
             widget: list
+            fields:
               - label: Satz
                 name: sentence
                 widget: string
