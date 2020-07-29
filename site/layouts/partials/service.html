@@ -2,16 +2,17 @@
 	<div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{ .title }}</h2>
       <div class="tags">
-        {{ range .tags }}
-        <ul class="tag-ul">
-          <li class="tag-li">{{ .tag }}</li>
+        <ul class="tag-ul center">
+          {{ range .tags }}
+          <li class="tag-li fw7 pv1 ph2 ma2 br1 dib">{{ .tag }}</li>
+          {{ end }}
         </ul>
-        {{ end }}
       </div>
 		<div class="flex-l mhn2-l">
-			<div class="w-60-l ph2-l">
-        <p>{{ .slogan }}</p>
-				<img src="{{ .picture }}" alt="picture of {{ .slogan }}" class="mb3">
+			<div class="w-60-l ph2-l" style="background-image: url('{{.picture}}')">
+        <h3 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
+          {{.slogan}}
+        </h3>
 			</div>
 			<div class="w-40-l ph2-l">
 				{{ .description }}
