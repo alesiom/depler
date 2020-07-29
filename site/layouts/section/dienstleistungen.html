@@ -3,7 +3,7 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ range .Params.service }}
-{{ partial "service" (dict "title" .subtitle "slogan" .slogan "image" .picture "description" .description "tags" .tags) }}
+{{ partial "service" (dict "title" .subtitle "slogan" .slogan "picture" .picture "description" .description "tags" .tags) }}
 {{ end }}
 
 {{ end }}
