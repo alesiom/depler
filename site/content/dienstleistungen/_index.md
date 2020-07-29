@@ -137,6 +137,38 @@ service:
       - tag: Malerarbeit
       - tag: Bodenlegerarbeit
       - tag: Urlaubsbetreuung
+  - subtitle: Reinigung
+    slogan: "Wir reinigen für Private und Firmen "
+    description: >-
+      **Überlassen Sie uns die Sauberkeit. Ob wiederkehrend oder punktuell:
+      *Derler Haus-Wohn-Service* sind Experten im Kampf gegen Staub und Dreck.
+      Folgende Reinigunsarbeiten übernehmen wir für Sie:**
+
+
+      * Baureinigung
+
+      * Büroreinigung
+
+      * Fensterreinigung 
+
+      * Autoreinigung
+
+
+      Für schnelle und genaue Reinigungen, kontaktieren Sie uns!
+    tags:
+      - tag: Baureinigung
+      - tag: Büroreinigung
+      - tag: Autoreinigung
+      - tag: Fensterreinigung
+    picture: img/2196334495_6ece605237_o.jpg
+  - subtitle: Transport Service
+    slogan: "Wir erledigen für Sie Lieferungen aller Art "
+    description: "Brauchen Sie einen sicheren Transport Service? Dann Sie sind bei
+      uns an der richtigen Adresse. Ob für Wertsachen oder Gütertransport.
+      Kontaktieren Sie uns und wir erledigen den Transport für Sie. "
+    tags:
+      - tag: Lieferung alle Art
+    picture: img/46752254541_68e29456c9_o.jpg
 main:
   heading: Great coffee with no compromises
   description: >
