@@ -46,17 +46,22 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: Description, name: lead, widget: string}
           - label: Dienstleistung
             name: service
             widget: list
-              - {label: Titel, name: title, widget: string}
+            fields:
+              - {label: Titel, name: subtitle, widget: string}
               - {label: Slogan, name: slogan, widget: string}
               - {label: Bild, name: picture, widget: image}
               - {label: Beschreibung, name: description, widget: markdown}
               - label: "Stichwörter"
                 name: tags
-                widget: string
+                widget: list
+                fields:
+                  - label: Stichwort
+                    name: tag
+                    widget: string
       - file: "site/content/ueber-uns/_index.md"
         label: "Über uns"
         name: "values"
