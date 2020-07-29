@@ -15,7 +15,11 @@
         </h3>
 			</div>
 			<div class="w-40-l ph2-l">
-				{{ .description }}
+  				{{% .description %}}
+          <br><br><br>
+          {{< .description >}}
+<br><br><br>
+          {{ .Render .description }}
 			</div>
 		</div>
 	</div>
