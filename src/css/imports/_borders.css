@@ -4,6 +4,7 @@
 .bb { border-bottom-style: solid; border-bottom-width: 1px; }
 .bl { border-left-style: solid; border-left-width: 1px; }
 .bn { border-style: none; border-width: 0; }
+.ba-5 { border-width: 5px; }
 
 
 @media (--breakpoint-not-small) {
