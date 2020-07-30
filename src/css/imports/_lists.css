@@ -3,4 +3,5 @@
 .list-with, .list-with > ul {
   list-style-type: circle;
   padding-left: 1em;
+  margin-bottom: var(--spacing-medium);
 }
