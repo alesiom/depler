@@ -1,15 +1,15 @@
 {{ define "main" }}
 
-<div class="pv5 pv6-l ph3 black">
-  <div class="br-100 h4 w4 overflow-hidden b--primary ba ba-5 absolute center bottom--2">
+<div class="pv5 pv6-l ph3 bg-black">
+  <div class="br-100 h4 w4 h5-m w5-m overflow-hidden b--primary ba ba-5 absolute center left-0 right-0 bottom-1-ns">
     <img src="{{ .Params.avatar }}" alt="Marco Derler Profil Foto"/>
   </div>
 </div>
 
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3">
-		<h2>{{ .Params.name }}</h2>
-		<div>{{ .Params.description | markdownify }}</div>
+		<h2 class="center f3">{{ .Params.name }}</h2>
+		<div cass="center">{{ .Params.description | markdownify }}</div>
 	</div>
 	<div class="center mw6 pv3">
 
