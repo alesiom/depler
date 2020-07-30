@@ -30,7 +30,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Name, name: name, widget: string}
           - {label: Beschreibung, name: description, widget: markdown}
           - {label: Logo, name: logo, widget: image}
-          - {label: Body, name: body, widget: markdown}
           - label: Kontakt Entries
             name: contact_entries
             widget: list

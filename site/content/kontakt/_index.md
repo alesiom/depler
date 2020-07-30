@@ -8,7 +8,11 @@ description: >
   Abstriche machen.
 
 
-  *Derler Haus-Wohn-Service* gibt alles, um Sie glücklich zu sehen. 
+  *Derler Haus-Wohn-Service* gibt alles, um Sie glücklich zu sehen.
+
+  [hallo@derler.ch](mailto:hallo@derler.ch)
+
+  [+41 (0) 76 345 69 76](tel:0041763456976)
 logo: img/icon-wohn.svg
 contact_entries:
   - heading: Standort
@@ -18,8 +22,3 @@ contact_entries:
   - heading: Arbeitszeiten
     text: "Montag – Samstag: 7:00 – 18:00 Wir sind Sonntags geschlossen"
 ---
-
-
-[hallo@derler.ch](mailto:hallo@derler.ch)
-
-[+41 (0) 76 345 69 76](tel:0041763456976)
