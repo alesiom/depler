@@ -38,7 +38,7 @@ service:
       - tag: Entsorgung
   - subtitle: Liegenschaftsbetreuung
     slogan: Wir bieten ein Gesamtpacket für Liegenschafts-Betreuung
-    picture: img/35473335420_9851f5bcd1_o.jpg
+    picture: img/7026643443_32d1eb9835_o.jpg
     description: >-
       *Derler Haus-Wohn-Service* nihmt Ihnen das Koordinieren mit verschiedenem
       Dienstleistern ab. Professionell kümmern wir uns um Ihre Liegenschaft oder
