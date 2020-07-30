@@ -2,4 +2,4 @@
 
 .list-with, .list-with > ul {list-style-type: circle;}
 
-.list-with > li {padding-left: 1em;}
+.list-with li {padding-left: 1em;}
