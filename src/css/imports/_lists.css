@@ -1,5 +1,6 @@
 .list { list-style-type: none; }
 
-.list-with, .list-with > ul {list-style-type: circle;}
-
-.list-with li {padding-left: 1em;}
+.list-with, .list-with > ul {
+  list-style-type: circle;
+  padding-left: 1em;
+}
