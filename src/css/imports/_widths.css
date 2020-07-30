@@ -22,7 +22,7 @@
 .w-third { width: calc(100% / 3); }
 .w-two-thirds { width: calc(100% / 1.5); }
 .w-auto { width: auto; }
-.nav-size-block {min-width: 111px;}
+.nav-size-block {min-width: 112px;}
 
 @media (--breakpoint-not-small) {
   .w1-ns {  width: var(--spacing-medium); }
