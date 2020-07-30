@@ -1,4 +1,4 @@
-<!-- <div class="bg-grey-1 pv4">
+<div class="bg-grey-1 pv4">
 	<div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{ .title }}</h2>
       <div class="tags">
@@ -8,24 +8,22 @@
           {{ end }}
         </ul>
       </div>
-<div class="flex-l mhn2-l">
-	<div class="w-60-l ph2-l pa3" style="background-image: url('{{.picture}}'); background-size: cover;">
-    <h3 class="f4 f4-l b di lh-title mb3 white mw6 bg-black">
-      {{ .slogan }}
-    </h3>
+		<div class="flex-l mhn2-l">
+			<div class="w-60-l ph2-l pa3" style="background-image: url('{{.picture}}'); background-size: cover;">
+        <h3 class="f4 f4-l b di lh-title mb3 white mw6 bg-black">
+          {{ .slogan }}
+        </h3>
+			</div>
+
+			<div class="w-40-l ph2-l">
+
+  		    {{ .description }}
+
+			</div>
+
+		</div>
 	</div>
-
-<div class="w-40-l ph2-l">
-
-
-
-</div>
-
-</div>
-</div>
 
             <!-- https://discourse.gohugo.io/t/markdown-not-being-rendered-within-html-block/2532/3
             https://discourse.gohugo.io/t/script-use-advanced-markdown-features-images-etc/6812 -->
-<!-- </div> -->
-
-{{ .description }}
+</div>
