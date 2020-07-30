@@ -22,7 +22,7 @@ service:
     picture: img/46752254541_68e29456c9_o.jpg
   - subtitle: Umzüge
     slogan: "Wir organisieren Ihren Umzug von A bis Z. "
-    picture: img/46752254541_68e29456c9_o.jpg
+    picture: img/2196334495_6ece605237_o.jpg
     description: >-
       Zuverlässig kümmern wir uns um Ihr Hab und Gut. Nebst Endreinigung mit
       Abnahmegarantie, übernihmt *Derler Haus-Wohn-Service* für Sie Räumungen
@@ -38,7 +38,7 @@ service:
       - tag: Entsorgung
   - subtitle: Liegenschaftsbetreuung
     slogan: Wir bieten ein Gesamtpacket für Liegenschafts-Betreuung
-    picture: img/35473335420_9851f5bcd1_o.jpg
+    picture: img/7026643443_32d1eb9835_o.jpg
     description: >-
       *Derler Haus-Wohn-Service* nihmt Ihnen das Koordinieren mit verschiedenem
       Dienstleistern ab. Professionell kümmern wir uns um Ihre Liegenschaft oder
@@ -72,9 +72,9 @@ service:
   - subtitle: Reinigung
     slogan: "Wir reinigen für Private und Firmen "
     description: >-
-      **Überlassen Sie uns die Sauberkeit. Ob wiederkehrend oder punktuell:
+      Überlassen Sie uns die Sauberkeit. Ob wiederkehrend oder punktuell:
       *Derler Haus-Wohn-Service* sind Experten im Kampf gegen Staub und Dreck.
-      Folgende Reinigunsarbeiten übernehmen wir für Sie:**
+      Folgende Reinigunsarbeiten übernehmen wir für Sie:
 
 
       * Baureinigung
@@ -86,14 +86,13 @@ service:
       * Autoreinigung
 
 
-
       Für schnelle und genaue Reinigungen, [kontaktieren Sie uns](../kontakt)!
     tags:
       - tag: Baureinigung
       - tag: Büroreinigung
       - tag: Autoreinigung
       - tag: Fensterreinigung
-    picture: img/2196334495_6ece605237_o.jpg
+    picture: img/35473335420_9851f5bcd1_o.jpg
   - subtitle: Transport Service
     slogan: "Wir erledigen für Sie Lieferungen aller Art "
     description: >-
@@ -103,7 +102,7 @@ service:
 
       [Kontaktieren Sie uns](../kontakt) und wir erledigen den Transport für Sie.
     tags:
-      - tag: Lieferung alle Art
+      - tag: Lieferung aller Art
     picture: img/46752254541_68e29456c9_o.jpg
 type: products
 image: img/42408631640_8fa3e0f4a1_o.jpg
