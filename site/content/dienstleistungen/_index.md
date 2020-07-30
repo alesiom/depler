@@ -13,7 +13,7 @@ service:
       aus.
 
 
-      Melden Sie sich, und wir garantieren, dass wir Sie nicht vermöbeln!
+      [Melden Sie sich](../kontakt), und wir garantieren, dass wir Sie nicht vermöbeln!
     tags:
       - tag: Möbelmontage
       - tag: USM Montagen
@@ -31,7 +31,7 @@ service:
       Zum Schluss ist alles wie Neu.
 
 
-      Kontaktieren Sie uns unverbindlich für eine Offerte!
+      [Kontaktieren Sie uns](../kontakt) unverbindlich für eine Offerte!
     tags:
       - tag: Umzugreinigung
       - tag: Räumung
@@ -60,7 +60,7 @@ service:
       * Reparaturen
 
 
-      Gerne besprechen wir mit Ihnen persönlich Ihre Bedürfnisse.
+      Gerne [besprechen wir mit Ihnen](../kontakt) persönlich Ihre Bedürfnisse.
     tags:
       - tag: Gebäudereinigung
       - tag: Hauswartung
@@ -85,7 +85,7 @@ service:
       * Autoreinigung
 
 
-      Für schnelle und genaue Reinigungen, kontaktieren Sie uns!
+      Für schnelle und genaue Reinigungen, [kontaktieren Sie uns](../kontakt)!
     tags:
       - tag: Baureinigung
       - tag: Büroreinigung
@@ -96,7 +96,8 @@ service:
     slogan: "Wir erledigen für Sie Lieferungen aller Art "
     description: "Brauchen Sie einen sicheren Transport Service? Dann Sie sind bei
       uns an der richtigen Adresse. Ob für Wertsachen oder Gütertransport.
-      Kontaktieren Sie uns und wir erledigen den Transport für Sie. "
+      [Kontaktieren Sie uns](../kontakt) und wir erledigen den Transport für
+      Sie. "
     tags:
       - tag: Lieferung alle Art
     picture: img/46752254541_68e29456c9_o.jpg
