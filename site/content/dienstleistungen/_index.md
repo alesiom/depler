@@ -103,7 +103,7 @@ service:
 
       [Kontaktieren Sie uns](../kontakt) und wir erledigen den Transport für Sie.
     tags:
-      - tag: Lieferung alle Art
+      - tag: Lieferung aller Art
     picture: img/46752254541_68e29456c9_o.jpg
 type: products
 image: img/42408631640_8fa3e0f4a1_o.jpg
