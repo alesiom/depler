@@ -60,6 +60,7 @@ service:
       * Reparaturen
 
 
+
       Gerne [besprechen wir mit Ihnen](../kontakt) persönlich Ihre Bedürfnisse.
     tags:
       - tag: Gebäudereinigung
@@ -85,6 +86,7 @@ service:
       * Autoreinigung
 
 
+
       Für schnelle und genaue Reinigungen, [kontaktieren Sie uns](../kontakt)!
     tags:
       - tag: Baureinigung
@@ -94,10 +96,12 @@ service:
     picture: img/2196334495_6ece605237_o.jpg
   - subtitle: Transport Service
     slogan: "Wir erledigen für Sie Lieferungen aller Art "
-    description: "Brauchen Sie einen sicheren Transport Service? Dann Sie sind bei
-      uns an der richtigen Adresse. Ob für Wertsachen oder Gütertransport.
-      [Kontaktieren Sie uns](../kontakt) und wir erledigen den Transport für
-      Sie. "
+    description: >-
+      Brauchen Sie einen sicheren Transport Service? Dann Sie sind bei uns an
+      der richtigen Adresse. Ob für Wertsachen oder Gütertransport. 
+
+
+      [Kontaktieren Sie uns](../kontakt) und wir erledigen den Transport für Sie.
     tags:
       - tag: Lieferung alle Art
     picture: img/46752254541_68e29456c9_o.jpg
