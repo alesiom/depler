@@ -72,9 +72,9 @@ service:
   - subtitle: Reinigung
     slogan: "Wir reinigen für Private und Firmen "
     description: >-
-      **Überlassen Sie uns die Sauberkeit. Ob wiederkehrend oder punktuell:
+      Überlassen Sie uns die Sauberkeit. Ob wiederkehrend oder punktuell:
       *Derler Haus-Wohn-Service* sind Experten im Kampf gegen Staub und Dreck.
-      Folgende Reinigunsarbeiten übernehmen wir für Sie:**
+      Folgende Reinigunsarbeiten übernehmen wir für Sie:
 
 
       * Baureinigung
@@ -84,7 +84,6 @@ service:
       * Fensterreinigung
 
       * Autoreinigung
-
 
 
       Für schnelle und genaue Reinigungen, [kontaktieren Sie uns](../kontakt)!
