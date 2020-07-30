@@ -22,7 +22,7 @@ service:
     picture: img/46752254541_68e29456c9_o.jpg
   - subtitle: Umzüge
     slogan: "Wir organisieren Ihren Umzug von A bis Z. "
-    picture: img/46752254541_68e29456c9_o.jpg
+    picture: img/2196334495_6ece605237_o.jpg
     description: >-
       Zuverlässig kümmern wir uns um Ihr Hab und Gut. Nebst Endreinigung mit
       Abnahmegarantie, übernihmt *Derler Haus-Wohn-Service* für Sie Räumungen
