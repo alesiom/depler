@@ -4,8 +4,6 @@
 
 {{ range .Params.service }}
 
-{{ .description }}
-
 {{ partial "service" (dict "title" .subtitle "slogan" .slogan "picture" .picture "description" .description "tags" .tags) }}
 
 {{ end }}
