@@ -93,7 +93,7 @@ service:
       - tag: Büroreinigung
       - tag: Autoreinigung
       - tag: Fensterreinigung
-    picture: img/2196334495_6ece605237_o.jpg
+    picture: img/35473335420_9851f5bcd1_o.jpg
   - subtitle: Transport Service
     slogan: "Wir erledigen für Sie Lieferungen aller Art "
     description: >-
