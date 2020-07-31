@@ -4,6 +4,8 @@
 
 <!-- T3 -->
 {{ range .Data.Pages }}
+  <br/><br/><br/>
+  {{ .Params }}
   {{ with .Params.products }}
     <p>in</p>
     {{ range .service }}
@@ -13,7 +15,7 @@
       {{ end }}
     {{ end }}
   {{ else }}
-    <h1>Bonjour</h1>
+    <p>t</p>
   {{ end }}
 {{ end }}
 
