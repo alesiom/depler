@@ -22,5 +22,5 @@ contact_entries:
       Derler Haus-Wohn-Service, 3006 Bern  
 
   - heading: Arbeitszeiten
-    text: "Montag – Freitag: 8:00 – 18:00 Wir sind Sonntags geschlossen"
+    text: "Montag – Freitag: 8:00 – 18:00"
 ---
