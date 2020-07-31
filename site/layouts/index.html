@@ -5,12 +5,17 @@
 <!-- T3 -->
 {{ range .Data.Pages }}
   <br/><br/><br/>
-  {{ .Params }}
-
-  {{ .Params.map }}
+  <!-- {{ .Params }} -->
 
   {{ with .Params.draft }}
     <p>draft exists</p>
+  {{ else }}
+    <p>a</p>
+  {{ end }}
+  {{ with .Params.map }}
+    <p>map exists</p>
+  {{ else }}
+    <p>b</p>
   {{ end }}
   {{ with .Params.map }}
     <p>in</p>
