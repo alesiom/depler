@@ -1,5 +1,21 @@
 {{ define "main" }}
 
+<!-- TESTS -->
+
+<!-- T1 -->
+.Data
+
+<!-- T2 -->
+.Data.Pages
+
+<!-- T3 -->
+.Content
+
+<!-- T4 -->
+.Params
+
+<!-- END TESTS -->
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "text-and-image" (dict "heading" " " "text" .Params.bulletpoints "imgUrl" .Params.full_image "buttonText" "Unsere Dienstleistungen" "buttonLink" "/dienstleistungen") }}
