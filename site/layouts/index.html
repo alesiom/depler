@@ -11,11 +11,6 @@
     {{ range .Params.service }}
       {{ . }}
     {{ end }}
-    <!-- <p>OR </p>
-    {{ range .Params.service.tags }}
-      {{ . }}
-    {{ end }} -->
-  </p>
   {{ else }}
     <p>no service</p>
   {{ end }}
