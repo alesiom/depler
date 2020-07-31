@@ -8,6 +8,11 @@
   {{ if (isset .Params "service") }}
     {{ range .Params.service }}
       {{ . }}
+      {{ if (isset . "tags") }}
+        {{ range .tags }}
+          {{ .tag }}
+        {{ end }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
