@@ -4,8 +4,12 @@
 
 <!-- T3 -->
 {{ range .Data.Pages }}
-  {{ range (where .Params "tags") }}
-    {{ . }}
+  {{ with .Params.products }}
+    {{ range .service }}
+      {{ range .tags }}
+        {{ . }}
+      {{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
