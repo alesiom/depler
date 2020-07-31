@@ -11,10 +11,10 @@
     {{ range .Params.service }}
       {{ . }}
     {{ end }}
-    <p>OR </p>
+    <!-- <p>OR </p>
     {{ range .Params.service.tags }}
       {{ . }}
-    {{ end }}
+    {{ end }} -->
   </p>
   {{ else }}
     <p>no service</p>
