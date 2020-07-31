@@ -4,7 +4,9 @@
 
 <!-- T3 -->
 {{ range .Data.Pages }}
-  {{ .Params }}
+  {{ range (where .Params "tags") }}
+    {{ . }}
+  {{ end }}
 {{ end }}
 
 <!-- END TESTS -->
