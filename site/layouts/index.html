@@ -7,44 +7,17 @@
   <br/><br/><br/>
   {{ .Params }}
 
-  {{ if (isset .Params "products") }}
-  <p> products </p>
-  {{ else }}
-    <p>no products</p>
-  {{ end }}
-
   {{ if (isset .Params "service") }}
-  <p> service </p>
+    {{ range .service }}
+      {{ . }}
+    {{ end }}
+    <p>OR </p>
+    {{ range .service.tags }}
+      {{ . }}
+    {{ end }}
+  </p>
   {{ else }}
     <p>no service</p>
-  {{ end }}
-
-  {{ if (isset .Params "tags") }}
-  <p> tags </p>
-  {{ else }}
-    <p>no tags</p>
-  {{ end }}
-
-  <!-- {{ range .Params.tags }}
-    {{ . }}
-    {{ if (isset .Params "products") }}
-    {{ .products }}
-    {{ else }}
-      <p>no products</p>
-    {{ end }}
-  {{ end }} -->
-
-
-  {{ with .Params.map }}
-    <p>in</p>
-    {{ range .service }}
-      <p> range service </p>
-      {{ range .tags }}
-        {{ . }}
-      {{ end }}
-    {{ end }}
-  {{ else }}
-    <p>t</p>
   {{ end }}
 {{ end }}
 
