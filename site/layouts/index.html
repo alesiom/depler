@@ -3,16 +3,22 @@
 <!-- TESTS -->
 
 <!-- T1 -->
-{{ .Data }}
-
-<!-- T2 -->
 {{ .Data.Pages }}
 
+<!-- T2 -->
+{{ range first 4 (where .Data.Pages "Type" "post") }}
+  <div class="ph1-ns w-50-ns flex">
+    {{ .Render "li" }}
+  </div>
+{{ end }}
+
 <!-- T3 -->
-{{ .Content }}
+{{ range .Data }}
+  {{ .Pages }}
+{{ end }}
 
 <!-- T4 -->
-{{ .Params }}
+{{ .Content }}
 
 <!-- END TESTS -->
 
