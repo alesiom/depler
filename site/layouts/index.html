@@ -9,18 +9,15 @@
 
   {{ range .Params }}
     {{ . }}
+
+    {{ with .tags }}
+      <p>tags exists</p>
+    {{ else }}
+      <p>a</p>
+    {{ end }}
   {{ end }}
 
-  {{ with .Params.draft }}
-    <p>draft exists</p>
-  {{ else }}
-    <p>a</p>
-  {{ end }}
-  {{ with .Params.map }}
-    <p>map exists</p>
-  {{ else }}
-    <p>b</p>
-  {{ end }}
+
   {{ with .Params.map }}
     <p>in</p>
     {{ range .service }}
