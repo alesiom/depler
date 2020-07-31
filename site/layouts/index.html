@@ -10,7 +10,7 @@
   {{ range .Params }}
     {{ . }}
 
-    {{ with .tags }}
+    {{ with .Params.tags }}
       <p>tags exists</p>
     {{ else }}
       <p>a</p>
