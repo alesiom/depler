@@ -1,25 +1,5 @@
 {{ define "main" }}
 
-<!-- TESTS -->
-
-<!-- T3 -->
-{{ range .Data.Pages }}
-  <br/>
-  {{ if (isset .Params "service") }}
-    {{ range .Params.service }}
-      {{ if (isset . "tags") }}
-        {{ range .tags }}
-          {{ .tag }}
-        {{ end }}
-      {{ else }}
-      <p> nope </p>
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-
-<!-- END TESTS -->
-
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "text-and-image" (dict "heading" " " "text" .Params.bulletpoints "imgUrl" .Params.full_image "buttonText" "Unsere Dienstleistungen" "buttonLink" "/dienstleistungen") }}

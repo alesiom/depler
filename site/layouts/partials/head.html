@@ -15,7 +15,18 @@
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
   <meta name="description" content="Derler Haus-Wohn-Service GmbH montiert, demontiert, reinigt, liefert, organisiert Ihren Umzug, und bietet ein Gesamtpacket für Liegenschafts-Betreuung in Bern und Umgebung">
-  <meta name="keywords" content="{{ range .Data.products }}{{ .title }}{{ range .tags }}{{ .tag }}{{ end }}{{ end }}">
+  <meta name="keywords" content="Haus, Hause, Wohn, Wohnung, zu hause, meine wohnung, 
+  {{ range .Data.Pages }}
+    {{ if (isset .Params "service") }}
+      {{ range .Params.service }}
+        {{ if (isset . "tags") }}
+          {{ range .tags }}
+            {{ .tag }},
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}">
   <meta name="author" content="Marco Derler">
 
 	<!-- Favicons -->
