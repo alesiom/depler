@@ -4,15 +4,11 @@
 
 <!-- T3 -->
 {{ range .Data.Pages }}
-  <br/><br/><br/>
-  {{ .Params }}
-
+  <br/>
   {{ if (isset .Params "service") }}
     {{ range .Params.service }}
       {{ . }}
     {{ end }}
-  {{ else }}
-    <p>no service</p>
   {{ end }}
 {{ end }}
 
