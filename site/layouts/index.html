@@ -6,7 +6,13 @@
 {{ range .Data.Pages }}
   <br/><br/><br/>
   {{ .Params }}
-  {{ with .Params.products }}
+
+  {{ .Params.map }}
+
+  {{ with .Params.draft }}
+    <p>draft exists</p>
+  {{ end }}
+  {{ with .Params.map }}
     <p>in</p>
     {{ range .service }}
       <p> range service </p>
