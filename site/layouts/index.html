@@ -5,11 +5,15 @@
 <!-- T3 -->
 {{ range .Data.Pages }}
   {{ with .Params.products }}
+    <p>in</p>
     {{ range .service }}
+      <p> range service </p>
       {{ range .tags }}
         {{ . }}
       {{ end }}
     {{ end }}
+  {{ else }}
+    <h1>Bonjour</h1>
   {{ end }}
 {{ end }}
 
