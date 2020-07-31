@@ -8,12 +8,11 @@
   <!-- {{ .Params }} -->
 
   {{ range .Params }}
-    {{ . }}
-
-    {{ with .Params.tags }}
-      <p>tags exists</p>
+    <!-- {{ . }} -->
+    {{ if .products }}
+    {{ .products }}
     {{ else }}
-      <p>a</p>
+      <p>no products</p>
     {{ end }}
   {{ end }}
 
