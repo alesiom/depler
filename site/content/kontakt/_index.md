@@ -11,7 +11,7 @@ description: >
   *Derler Haus-Wohn-Service* gibt alles, um Sie glücklich zu sehen.
 
 
-  [hallo@derler.ch](mailto:hallo@derler.ch)
+  [marco@derler.ch](mailto:marco@derler.ch)
 
 
   [+41 (0) 76 345 69 76](tel:0041763456976)
@@ -22,5 +22,5 @@ contact_entries:
       Derler Wohn-Service, Egghölzlistrasse 63, 3006 Bern  
 
   - heading: Arbeitszeiten
-    text: "Montag – Samstag: 7:00 – 18:00 Wir sind Sonntags geschlossen"
+    text: "Montag – Samstag: 8:00 – 18:00 Wir sind Sonntags geschlossen"
 ---
