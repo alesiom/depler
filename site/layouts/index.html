@@ -7,11 +7,12 @@
   <br/>
   {{ if (isset .Params "service") }}
     {{ range .Params.service }}
-      {{ . }}
       {{ if (isset . "tags") }}
         {{ range .tags }}
           {{ .tag }}
         {{ end }}
+      {{ else }}
+      <p> nope </p>
       {{ end }}
     {{ end }}
   {{ end }}
