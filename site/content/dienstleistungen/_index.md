@@ -13,7 +13,7 @@ service:
       aus.
 
 
-      [Melden Sie sich](../kontakt), und wir garantieren, dass wir Sie nicht vermöbeln!
+      [Melden Sie sich](../kontakt), und wir garantieren, dass wir Sie vermöbeln!
     tags:
       - tag: Möbelmontage
       - tag: USM Montagen
@@ -96,7 +96,7 @@ service:
   - subtitle: Transport Service
     slogan: "Wir erledigen für Sie Lieferungen aller Art "
     description: >-
-      Brauchen Sie einen sicheren Transport Service? Dann Sie sind bei uns an
+      Brauchen Sie einen sicheren Transport Service? Dann sind Sie bei uns an
       der richtigen Adresse. Ob für Wertsachen oder Gütertransport. 
 
 
