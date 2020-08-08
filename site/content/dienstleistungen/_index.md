@@ -19,13 +19,14 @@ service:
       - tag: USM Montagen
       - tag: Reparaturarbeiten
       - tag: Transport
+      - tag: USM Zertifiziert
     picture: img/46752254541_68e29456c9_o.jpg
   - subtitle: Umzüge
     slogan: "Wir organisieren Ihren Umzug von A bis Z. "
     picture: img/2196334495_6ece605237_o.jpg
     description: >-
       Zuverlässig kümmern wir uns um Ihr Hab und Gut. Nebst Endreinigung mit
-      Abnahmegarantie, übernihmt *Derler Haus-Wohn-Service* für Sie Räumungen
+      Abnahmegarantie, übernimmt *Derler Haus-Wohn-Service* für Sie Räumungen
       und entsorgen Gegenstände fachgerecht.
 
       Zum Schluss ist alles wie Neu.
@@ -40,7 +41,7 @@ service:
     slogan: Wir bieten ein Gesamtpacket für Liegenschafts-Betreuung
     picture: img/7026643443_32d1eb9835_o.jpg
     description: >-
-      *Derler Haus-Wohn-Service* nihmt Ihnen das Koordinieren mit verschiedenem
+      *Derler Haus-Wohn-Service* nimmt Ihnen das Koordinieren mit verschiedenen
       Dienstleistern ab. Professionell kümmern wir uns um Ihre Liegenschaft oder
       Wohnung
 
@@ -58,7 +59,6 @@ service:
       * Urlaubsbetreuung Ihrer Wohnung
 
       * Reparaturen
-
 
 
       Gerne [besprechen wir mit Ihnen](../kontakt) persönlich Ihre Bedürfnisse.
