@@ -22,5 +22,5 @@ contact_entries:
       Derler Haus-Wohn-Service, Egghölzlistrasse 63, 3006 Bern  
 
   - heading: Arbeitszeiten
-    text: "Montag – Freitag: 8:00 – 18:00"
+    text: "Montag – Samstag: 8:00 – 18:00"
 ---
