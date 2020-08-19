@@ -77,6 +77,8 @@ service:
       Folgende Reinigunsarbeiten übernehmen wir für Sie:
 
 
+      * Endreinigung mit Abnahmegarantie
+
       * Baureinigung
 
       * Büroreinigung
