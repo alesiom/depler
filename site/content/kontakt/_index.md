@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-avatar: img/teojakob_marco_derler.jpg__600x800.0_q85_crop-smart_subsampling-2_upscale.jpg
+avatar: img/marco-derler.jpg
 name: Marco Derler
 description: >
   Meine Leidenschaft für die Zufriedenheit von Kundinnen und Kunden steht für
