@@ -74,7 +74,7 @@ service:
     description: >-
       Überlassen Sie uns die Sauberkeit. Ob wiederkehrend oder punktuell:
       *Derler Haus-Wohn-Service* sind Experten im Kampf gegen Staub und Dreck.
-      Folgende Reinigunsarbeiten übernehmen wir für Sie:
+      Folgende Reinigungsarbeiten übernehmen wir für Sie:
 
 
       * Endreinigung mit Abnahmegarantie
@@ -95,7 +95,7 @@ service:
       - tag: Autoreinigung
       - tag: Fensterreinigung
     picture: img/35473335420_9851f5bcd1_o.jpg
-  - subtitle: Transport Service
+  - subtitle: Transportservice
     slogan: "Wir erledigen für Sie Lieferungen aller Art "
     description: >-
       Brauchen Sie einen sicheren Transport Service? Dann sind Sie bei uns an
