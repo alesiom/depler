@@ -29,7 +29,7 @@ service:
       Abnahmegarantie, übernimmt *Derler Haus-Wohn-Service* für Sie Räumungen
       und entsorgen Gegenstände fachgerecht.
 
-      Zum Schluss ist alles wie Neu.
+      Zum Schluss ist alles wie neu.
 
 
       [Kontaktieren Sie uns](../kontakt) unverbindlich für eine Offerte!
