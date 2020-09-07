@@ -6,5 +6,5 @@ full_image: img/42642230294_d506b4c6a4_o.jpg
 bulletpoints:
   - sentence: Mit Rat und Tat rund um Ihre Wohnung und Liegenschaft
   - sentence: Kompetent, flink und persönlich
-  - sentence: Damit Sie unbeschwert Ihr zu Hause geniessen können
+  - sentence: Damit Sie unbeschwert Ihr zuhause geniessen können
 ---
