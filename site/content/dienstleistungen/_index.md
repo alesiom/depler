@@ -96,7 +96,7 @@ service:
       - tag: Lieferung aller Art
     picture: img/umzug.jpg
 type: products
-image: img/42408631640_8fa3e0f4a1_o.jpg
+image: img/reinigung-liegenschaftbetreuung-transport-garten-hauswart.jpg
 lead: Geniessen Sie die Zusammenarbeit mit uns und machen Sie sich keine Sorgen,
   verschiedene Unternehmen für verschiedene Dienstleistungen zu finden. Wir
   bieten Ihnen die gesamte Palette, die Sie benötigen, um Ihre Bedürfnisse
