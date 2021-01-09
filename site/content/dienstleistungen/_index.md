@@ -20,7 +20,7 @@ service:
       - tag: Reparaturarbeiten
       - tag: Transport
       - tag: USM Zertifiziert
-    picture: img/0-4.jpg
+    picture: img/46752254541_68e29456c9_o.jpg
   - subtitle: Umzüge
     slogan: "Wir organisieren Ihren Umzug von A bis Z. "
     picture: img/umzug.jpg
