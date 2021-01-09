@@ -41,24 +41,13 @@ service:
     slogan: Wir bieten ein Gesamtpacket für Liegenschafts-Betreuung
     picture: img/9231682432_945cfdfccf_o.jpg
     description: >-
-      *Derler Haus-Wohn-Service* nimmt Ihnen das Koordinieren mit verschiedenen
-      Dienstleistern ab. Professionell kümmern wir uns um Ihre Liegenschaft oder
-      Wohnung
-
-
-      * Gebäudereinigung
-
-      * Hauswartung
-
-      * Gartenpflege
-
-      * Bodenlegerarbeit
-
-      * Malerarbeit
-
-      * Urlaubsbetreuung Ihrer Wohnung
-
-      * Reparaturen
+      Liegenschaftsbetreuung ist Vertrauenssache. In uns finden Sie einen
+      zuverlässigen, vertrauenswürdigen und hochqualifizierten Partner. Wir
+      haben uns auf kleine bis mittlere Objekte spezialisiert und verfügen in
+      der Hauswartung über genügend Erfahrung. Unser Wissen sowie unsere
+      Erfahrung setzen wir jederzeit persönlich und aktiv für Ihre Immobilie
+      ein. Wir möchten darüber hinaus mit der langfristigen Werterhaltung Ihres
+      Objekts zur Sicherung Ihres Vermögens beitragen.
 
 
       Gerne [besprechen wir mit Ihnen](../kontakt) persönlich Ihre Bedürfnisse.
