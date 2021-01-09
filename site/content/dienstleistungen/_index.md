@@ -94,7 +94,7 @@ service:
       [Kontaktieren Sie uns](../kontakt) und wir erledigen den Transport für Sie.
     tags:
       - tag: Lieferung aller Art
-    picture: img/transport.jpg
+    picture: img/transport-umzug-montage-usm-liegenschaftbetruung.jpeg
 type: products
 image: img/42408631640_8fa3e0f4a1_o.jpg
 lead: Geniessen Sie die Zusammenarbeit mit uns und machen Sie sich keine Sorgen,
