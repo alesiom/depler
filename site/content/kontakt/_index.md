@@ -11,6 +11,9 @@ description: >-
   Sorgfalt auszuführen und sind erst zufrieden, wenn der Kunde zufrieden ist.
 
 
+  Setzen Sie mit uns auf einen erfahrenen und fachkundigen, verantwortungsbewussten Partner. Für ein persönliches und unverbindliches Gespräch stehe ich Ihnen jederzeit gerne zur Verfügung.
+
+
   [marco@derler.ch](mailto:marco@derler.ch)
 
 
