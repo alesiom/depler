@@ -2,13 +2,13 @@
 title: Kontakt
 avatar: img/marco-derler.jpg
 name: Marco Derler
-description: >
-  Meine Leidenschaft für die Zufriedenheit von Kundinnen und Kunden steht für
-  mich an oberster Stelle. Durch meine Selbständigkeit muss ich hier keine
-  Abstriche machen.
-
-
-  *Derler Haus-Wohn-Service* gibt alles, um Sie glücklich zu sehen.
+description: >-
+  Mein Name ist Marco Derler und ich bin Geschäftsleiter von *Derler
+  Haus-Wohn-Service GmbH*. Meine Firma ist spezialisiert auf
+  Liegenschaftsbetreuung, Umzug, Umzugsreinigung mit Abnahmegarantie,
+  Möbelmontage und Transportservice. Wir sind ein junges, dynamisches und
+  motiviertes Team im Raum Bern. Wir sind sehr bedacht unsere Arbeit mit
+  Sorgfalt auszuführen und sind erst zufrieden, wenn der Kunde zufrieden ist.
 
 
   [marco@derler.ch](mailto:marco@derler.ch)
