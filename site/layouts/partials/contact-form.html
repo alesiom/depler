@@ -2,7 +2,9 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Schreiben Sie uns eine Nachricht</h4>
 
-  <form action="">
+  <form method="post" netlify-honeypot="bot-field" data-netlify="true" name="contact">
+    <input type="hidden" name="bot-field" />
++   <input type="hidden" name="form-name" value="contact" />
     <div class="flex-l mhn1-l">
       <!-- Name -->
       <div class="ph1-l w-50-l">
@@ -14,7 +16,7 @@
       <!-- Email -->
       <div class="ph1-l w-50-l">
         <fieldset>
-          <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
+          <input type="email" id="email" name="email" placeholder="E-Mail" class="w-100 mb2">
           <label for="email">E-Mail</label>
         </fieldset>
       </div>
@@ -22,7 +24,7 @@
 
     <!-- Message -->
     <fieldset>
-      <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
+      <textarea id="message" name="message" placeholder="Ihre Nachricht" rows="8" cols="80" class="w-100"></textarea>
       <label for="message">Ihre Nachricht</label>
     </fieldset>
     <!-- Button -->
